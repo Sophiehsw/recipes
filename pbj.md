@@ -1,6 +1,5 @@
-# Nathan's PBJ recipe
+# Sophie's PBJ recipe
 1. bread
-2. peanut butter
+2. chunky peanut butter
 3. jelly
-4. bananas
-5. bread
+4. bread
